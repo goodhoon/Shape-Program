@@ -4,4 +4,4 @@
 Source files are available on request.
 
 2.
-In order to run the program, on the Windows Command Prompt, type 'makeshapes.exe'
+In order to run the program, doubleclick 'makeshapes.exe'
